@@ -1,4 +1,4 @@
-![Video Title](./data_anlyst_bot.webm)
+![Video Title](data_anlyst_bot.webm)
 
 ## Data Analyst Bot
 
