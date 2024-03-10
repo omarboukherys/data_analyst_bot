@@ -20,7 +20,7 @@ The application was developed using Langchain Agent (SQL agents) and GPT-4 LLM. 
    ```bash
    source ai_env/bin/activate  # for Linux/Mac
    ai_env\Scripts\activate      # for Windows
-   in your terminal run the following: streamlit run app.py
+   in your terminal run the following: streamlit run app_st2.py
 
 ## NOTE:
 In the code, there is a # commentaire to change it if you want to connect to a specific database or schema.
