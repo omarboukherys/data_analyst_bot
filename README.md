@@ -4,7 +4,7 @@
 
 The Data Analyst Bot is an interactive tool designed for data analysis enthusiasts, providing a seamless experience without requiring any programming language knowledge. With the bot, users can ask questions about their data, receive insights, and explore datasets effortlessly. Whether you're a beginner or an experienced analyst, the Data Analyst Bot is here to assist you in your data exploration journey.
 
-The application was developed using Langchain Agent (SQL agents) and GPT-4 LLM. These components helped us transform user requests into SQL queries, which the agent then executed. The agent returned the final answer to our query.
+The application was developed using ***LangChain*** Agent (SQL agents) and ***GPT-4*** LLM. The ***GPT-4*** helped us transform user requests into ***SQL*** queries, which the agent then executed. The agent returned the final answer to our query.
 
 ## Features
 
