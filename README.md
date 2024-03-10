@@ -2,8 +2,9 @@
 
 # Data Analyst Bot
 
-
 The Data Analyst Bot is an interactive tool designed for data analysis enthusiasts, providing a seamless experience without requiring any programming language knowledge. With the bot, users can ask questions about their data, receive insights, and explore datasets effortlessly. Whether you're a beginner or an experienced analyst, the Data Analyst Bot is here to assist you in your data exploration journey.
+
+The application was developed using Langchain Agent (SQL agents) and GPT-4 LLM. These components helped us transform user requests into SQL queries, which the agent then executed. The agent returned the final answer to our query.
 
 ## Features
 
@@ -15,10 +16,13 @@ The Data Analyst Bot is an interactive tool designed for data analysis enthusias
 ## How to Use
 
 1. **Input your Data:** Upload your dataset to your PostgreSQL database.
-2. **Ask Questions:** Use natural language (French or English) to query your data.
-3. **Get Insights:** Receive instant answers and visualizations.
-4. **Explore Further:** Dive deeper into your data with follow-up questions.
+2. **Activate the Virtual Environment:** Activate the `ai_env` virtual environment:
+   ```bash
+   source ai_env/bin/activate  # for Linux/Mac
+   ai_env\Scripts\activate      # for Windows
+   in your terminal run the following: streamlit run app.py
 
-Note: In the code, there is a `# commentaire` to change it if you want to connect to a specific database or schema.
+## NOTE:
+In the code, there is a # commentaire to change it if you want to connect to a specific database or schema.
 
 No programming language required, just your curiosity and a desire to explore data. Try the Data Analyst Bot today and unlock the power of your data!
