@@ -1,3 +1,5 @@
+![Video Title](./data_anlyst_bot.webm)
+
 ## Data Analyst Bot
 
 The Data Analyst Bot is an interactive tool designed for data analysis enthusiasts, providing a seamless experience without requiring any programming language knowledge. With the bot, users can ask questions about their data, receive insights, and explore datasets effortlessly. Whether you're a beginner or an experienced analyst, the Data Analyst Bot is here to assist you in your data exploration journey.
